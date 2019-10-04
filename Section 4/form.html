@@ -9,8 +9,12 @@
 <!-- action - where the form send data to -->
 <!-- method - what HTTP method (get/post) -->
 <form action="http://wikipedia.com" method="GET">
-	<input type="Text" placeholder="username">
-	<input type="Password" placeholder="password">
+	<label for="username">Email:</label>
+	<input id="username" type="email" placeholder="email" required>
+	
+	<label for="password">Password:</label>
+	<input id="password" type="Password" placeholder="password">
+
 	<input type="Submit">	
 </form>
 
