@@ -1,0 +1,11 @@
+li {
+	border: 2px solid red;
+}
+
+#special { /* for id */
+	background-color: yellow;
+}
+
+.completed { /* for class */
+	text-decoration: line-through;
+}

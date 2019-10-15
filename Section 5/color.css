@@ -1,0 +1,14 @@
+h1 {
+	color: #000000;
+	/* # _ _ _ _ _ _ 
+		first two _ _ shows how much red in the color
+		second two _ _ shows how much green in the color
+		third two _ _ shows how much blue in the color */
+}
+h2 {
+	color: rgb(240, 0, 100);
+}
+h3 {
+	color: rgba(240, 0, 100, .2);
+	/* The fourth number is the transparency channel. Ranges from 0.0 - 1.0 */
+}

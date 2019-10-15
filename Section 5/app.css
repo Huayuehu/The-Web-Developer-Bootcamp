@@ -1,0 +1,22 @@
+h1 {
+	color: purple;
+	border-color: red;
+	border-width: 5px;
+	border-style: solid;
+	
+}
+
+li {
+	color: orange;
+
+	border: 3px dashed green;
+}
+
+h4 {
+	color: green;
+	background: rgb(255, 100, 80); 
+}
+body {
+	background-image: url("./IMG_2473.JPG");
+	background-size: cover;
+}
