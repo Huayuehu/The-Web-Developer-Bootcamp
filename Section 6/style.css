@@ -1,0 +1,23 @@
+body {
+    font-size: 20px;
+    font-family: 'Grenze Gotisch', cursive;
+}
+
+h1 {
+    font-family: "Geirgia";
+    font-size: 5.0em;
+    text-align: center;
+}
+
+p {
+    font-family: "Monaco";
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 2;  /*行间距*/
+    text-align: left;  /*向左对齐*/
+    text-decoration: underline;
+}
+
+span {
+    font-size: 1.5em;
+}

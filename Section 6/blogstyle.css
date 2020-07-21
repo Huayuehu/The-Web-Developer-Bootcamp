@@ -1,0 +1,40 @@
+body {
+    border: 20px solid #bdc3c7;
+    padding: 20px;
+    max-width: 700px;
+    width: 80%;
+    margin: 20px auto;
+}
+
+.first {
+    font-family: 'Noto Sans SC', sans-serif;
+    border-bottom: 2px solid #f1f1f1;
+    font-size: 15px;
+}
+
+.second {
+    font-family: 'Noto Sans SC', sans-serif;
+    font-size: 15px;
+}
+
+.date {
+    color: #3498db;
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 0.2rem;
+    padding-top: 10px;
+}
+
+.one {
+    border-left: 5px solid #bdc3c7;
+    padding: 5px;
+}
+
+
+h2 {
+    color: #2c3e50;
+    font-size: 2.0rem;
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 0.05rem;
+}
