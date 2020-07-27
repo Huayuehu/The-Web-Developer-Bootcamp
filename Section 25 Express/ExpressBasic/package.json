@@ -1,0 +1,14 @@
+{
+  "name": "solution",
+  "version": "1.0.0",
+  "description": "Solution to Express exercise",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Huayue Hua",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
