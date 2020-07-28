@@ -12,7 +12,7 @@ app.get("/", function (req, res) {
 });
 
 app.post("/addfriend", function(req, res){
-    var newFriend = req.body.newfriend; 
+    var newFriend = req.body.newfriend;
     friendsList.push(newFriend);
     res.redirect("/friends");
 });
