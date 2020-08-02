@@ -14,3 +14,6 @@ app.get("/about", function(req, res) {
 app.listen(3000, function() {
     console.log("Running...");
 })
+// app.listen(process.env.PORT, process.env.IP, function(){
+//     console.log("The YelpCamp Server Has Started!");
+// });
